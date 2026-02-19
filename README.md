@@ -1,79 +1,84 @@
 # Hi there 👋, I'm Prasanthi Sreeja  
 
-### 📊 Aspiring Data Analyst | PHP Developer | Turning Data into Insights  
-
-<!--
-**Prahu09/Prahu09** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
--->
+### 📊 Data Analyst | SQL • Python • Power BI • Excel  
 
 ---
 
 ## 👩‍💻 About Me  
 
-- 🔍 Aspiring **Data Analyst** with hands-on experience in real-world analytics projects  
-- 💼 Currently working as a **PHP Developer at Straive**, building data-backed operational systems  
-- 📊 Skilled in **Excel, SQL, Python, Power BI, Tableau**  
-- 🧠 Strong foundation in **Data Cleaning, EDA, Data Modeling & Dashboard Development**  
-- 🎯 Passionate about transforming raw data into actionable business insights  
-- 🌱 Currently improving advanced analytics & business intelligence skills  
+- 📊 Data Analyst skilled in **SQL, Python, Excel, Power BI, Tableau**
+- 💼 Currently working as a PHP Developer while transitioning fully into Data Analytics
+- 🧠 Strong in **Data Cleaning, EDA, Data Modeling, Dashboard Development**
+- 🎯 Passionate about solving business problems using data-driven insights
+- 📈 Experienced in building end-to-end analytics projects from raw data to dashboards
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Data Analytics Projects  
 
-### 📌 Swiggy Sales Analytics Dashboard  
-- Analyzed 197,000+ food delivery records  
-- Identified optimal pricing benchmark of ₹268.51  
-- Built interactive visualizations using Python & Plotly  
-- Provided insights for regional pricing optimization  
+### 🎬 Netflix SQL Business Analysis  
+📂 Repository: netflix_sql_project  
 
-### 📌 HR Attrition Analytics Dashboard  
+- Analyzed Netflix movies & TV shows dataset using advanced SQL queries  
+- Solved 15+ real-world business problems  
+- Performed genre distribution, content trends, release pattern, and country-wise analysis  
+- Used GROUP BY, CTEs, Window Functions, Subqueries for business insights  
+- Focused on writing optimized and structured SQL queries  
+
+---
+
+### 🍔 Swiggy Sales Analytics Dashboard  
+
+- Analyzed 197,000+ food delivery records using Python & SQL  
+- Performed EDA and pricing trend analysis  
+- Identified optimal average price benchmark (₹268.51)  
+- Built interactive visualizations using Plotly  
+
+---
+
+### 👩‍💼 HR Attrition Analytics Dashboard  
+
 - Identified key drivers of employee attrition  
-- Built interactive Power BI dashboard with DAX measures  
-- Highlighted potential 12% turnover reduction opportunity  
+- Built Power BI dashboard with DAX measures  
+- Highlighted potential 12% reduction in turnover  
 
-### 📌 ShopNest E-commerce Analytics Dashboard  
+---
+
+### 🛒 ShopNest E-commerce Analytics Dashboard  
+
 - Designed Star Schema data model  
-- Built executive-level KPI dashboards  
-- Identified 38% delay concentration in logistics hubs  
+- Built KPI dashboards using Power BI  
+- Identified logistics delay concentration (38%)  
 
 ---
 
 ## 🛠️ Technical Skills  
 
-**📊 Data Analytics:**  
-Excel | SQL | Python | Power BI | Tableau  
+### 📊 Data Analytics  
+SQL | Python | Excel | Power BI | Tableau  
 
-**📈 Data Techniques:**  
-Data Cleaning | EDA | Data Modeling | Data Mining | DAX | Power Query  
+### 📈 Techniques  
+Data Cleaning | EDA | Data Modeling | DAX | Power Query | Statistics  
 
-**💻 Programming:**  
-PHP | Laravel | SQL  
+### 💻 Programming  
+Python | PHP | Laravel | SQL  
 
 ---
 
 ## 🎓 Education  
 
 🎓 B.Tech in Information Technology  
-Prince Shri Venkateshwara Padmavathy Engineering College (CGPA: 8.43)
+CGPA: 8.43  
 
 ---
 
 ## 📫 Connect With Me  
 
-- 💼 LinkedIn: https://linkedin.com/in/prasanthisreeja  
-- 💻 GitHub: https://github.com/Prahu09  
-- 📧 Email: prasanthi.prnaidu@gmail.com  
+- 💼 LinkedIn: linkedin.com/in/prasanthisreeja  
+- 💻 GitHub: github.com/Prahu09  
+- 📧 prasanthi.prnaidu@gmail.com  
 
 ---
 
 ### ⚡ Fun Fact  
-I enjoy combining business thinking with analytics to solve real-world problems and build dashboards that tell a story with data 📊✨
+I love transforming messy datasets into clean dashboards that tell a business story 📊✨
